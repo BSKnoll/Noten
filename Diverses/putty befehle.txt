@@ -1,0 +1,3 @@
+cd "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt"
+chmod +x noten_git_automatisch.sh
+./noten_git_automatisch.sh
