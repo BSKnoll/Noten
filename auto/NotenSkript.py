@@ -59,7 +59,7 @@ def generate_html_from_excel(file_path, output_path):
             zeitstempel = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
         # Schülerdaten aus Blatt "Noten"
-        df = pd.read_excel(file_path, sheet_name="Noten")
+        df = pd.read_excel(file_path, sheet_name="NotenAlleSchuelerGesamt")
 
         # Sicherstellen, dass relevante Spalten numerisch sind
         numeric_columns = ['GesamtMitarbeit', 'GesamtTest', 'Endnote']

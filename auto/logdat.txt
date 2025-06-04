@@ -1,0 +1,22 @@
+[2025-06-04 21:48:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 21:48:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 21:48:45] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 21:48:45] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 21:49:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 21:49:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 21:50:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 21:50:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 21:51:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 21:51:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 21:52:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 21:52:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 21:53:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 21:53:01] 🚀 FORCE erkannt (Zeile oder Datei) – Triggerprüfung übersprungen.
+[2025-06-04 21:53:01] ✅ Trigger erkannt – Skript wird ausgeführt.
+From github.com:BSKnoll/Noten
+ * branch            main       -> FETCH_HEAD
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+Ein unerwarteter Fehler ist aufgetreten: Object of type datetime is not JSON serializable
+[2025-06-04 21:53:01] 🔄 HTML-Synchronisierung abgeschlossen. Beginne Kopie.
+[2025-06-04 21:53:01] ✅ HTML erstellt, archiviert & index.html aktualisiert.
