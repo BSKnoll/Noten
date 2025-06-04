@@ -107,3 +107,42 @@ error: please commit or stash them.
 Ein unerwarteter Fehler ist aufgetreten: Object of type datetime is not JSON serializable
 [2025-06-04 22:18:02] 🔄 HTML-Synchronisierung abgeschlossen. Beginne Kopie.
 [2025-06-04 22:18:02] ✅ HTML erstellt, archiviert & index.html aktualisiert.
+[main e300e1c] Automatisches Update vom 2025-06-04_22-18
+ 25 files changed, 377 insertions(+), 123938 deletions(-)
+ rename NotenAlleSchuelerGesamt - Kopie.xlsx => ALT/NotenAlleSchuelerGesamt - Kopie.xlsx (100%)
+ rename NotenAlleSchuelerGesamt.xlsx => ALT/NotenAlleSchuelerGesamt.xlsx (100%)
+ rename README.md => ALT/README.md (100%)
+ rename log.txt => ALT/log.txt (100%)
+ rename trigger => ALT/trigger (100%)
+ create mode 100644 FORCE.txt
+ rename auto/{ => ALT}/HTMLErstellen.py (100%)
+ rename auto/{ => ALT}/HTMLgenerieren.py (100%)
+ rename auto/{ => ALT}/HTMLgenerierenV2.py (100%)
+ rename auto/{ => ALT}/NotenSkript.py (100%)
+ rename auto/{ => ALT}/Notenuebersicht - Kopie.html (100%)
+ rename auto/{ => ALT}/log.txt (100%)
+ rename auto/{ => ALT}/noten_git_automatisch_inklforce Sicherungskopie.sh (100%)
+ rename auto/{ => ALT}/noten_git_automatisch_inklforce.sh (100%)
+ rename auto/{ => ALT}/noten_pythonstart_git_auto.sh (98%)
+ create mode 100644 auto/archiv/Notenuebersicht_2025-06-04_22-18.html
+ delete mode 100644 auto/log - Kopie.txt
+ create mode 100644 auto/logdat - Kopie.txt
+ create mode 100644 triggerfiles/trigger_NEU.txt
+ delete mode 100644 ~$NotenAlleSchuelerGesamt.xlsx
+To github.com:BSKnoll/Noten.git
+   5df8713..e300e1c  main -> main
+[2025-06-04 22:18:02] ✅ GitHub Push erfolgreich.
+[2025-06-04 22:19:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:19:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:20:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:20:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:21:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:21:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:22:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:22:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:23:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:23:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:24:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:24:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:25:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:25:02] ⏭️ Kein passender Trigger – Skript übersprungen.
