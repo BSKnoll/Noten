@@ -1,0 +1,39 @@
+NEU:
+cd "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto"
+
+chmod +x noten_git_automatisch_inklforce.sh
+
+./noten_git_automatisch_inklforce.sh
+ 
+tail -n 300 "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/log.txt"
+
+Erklärung:
+# 1. In den Auto-Ordner wechseln
+cd "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto"
+
+# 2. Skript ausführbar machen (nur einmal nötig)
+chmod +x noten_git_force.sh
+chmod +x noten_git_automatisch_inklforce.sh
+
+# 3. noten_git_force.sh ausführen (nur wenn du dieses manuell starten willst)
+./noten_git_automatisch_inklforce.sh
+
+# 4. Log anzeigen (sofern du prüfen willst, ob alles lief)
+cat log.txt   # ← Datei heißt bei dir log.txt, nicht log_force.txt
+
+
+ALT:
+
+cd "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto"
+chmod +x noten_git_force.sh
+./noten_git_force.sh
+cat log_force.txt
+
+cd "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt"
+git pull origin main
+git push origin main
+
+cd "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto"
+chmod +x noten_git_automatisch_inklforce.sh
+
+
