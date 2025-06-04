@@ -1,13 +1,16 @@
 @echo off
-REM Setzt das Verzeichnis auf den Ordner der Batch-Datei
 cd /d "%~dp0"
 
-REM Öffnet die Excel-Datei
-start "" "NotenAlleSchuelerGesamt.xlsx"
+@echo Starte PowerShell zum Oeffnen und Schliessen der Excel-Datei
+powershell -ExecutionPolicy Bypass -File "%~dp0run_excel.ps1"
 
-REM Wartet 20 Sekunden
+REM Sicherstellen, dass Ordner existiert
+mkdir "triggerfiles" 2>nul
+@echo Erstelle FORCE TRIGGER
+REM Trigger-Datei sicher schreiben
+break > "triggerfiles\trigger.txt"
+@echo Priat god baba
+REM Warte 20 Sekunden vor dem Beenden
 timeout /t 20 > nul
 
-REM Schließt alle laufenden Excel-Prozesse (falls noch offen)
-taskkill /f /im excel.exe > nul 2>&1
-
+exit

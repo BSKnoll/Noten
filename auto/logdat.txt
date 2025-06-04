@@ -146,3 +146,45 @@ To github.com:BSKnoll/Noten.git
 [2025-06-04 22:24:02] ⏭️ Kein passender Trigger – Skript übersprungen.
 [2025-06-04 22:25:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
 [2025-06-04 22:25:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:26:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:26:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:27:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:27:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:28:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:28:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:28:12] HTML-Datei 'Notenuebersicht.html' wurde neu erstellt.
+[2025-06-04 22:29:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:29:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:30:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:30:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:31:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:31:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:32:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:32:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:33:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:33:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:34:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:34:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:35:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:35:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:36:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:36:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:37:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:37:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:38:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:38:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:39:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:39:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:40:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:40:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-04 22:41:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-04 22:41:01] 🚀 FORCE erkannt (Zeile oder Datei) – Triggerprüfung übersprungen.
+[2025-06-04 22:41:01] ✅ Trigger erkannt – Skript wird ausgeführt.
+From github.com:BSKnoll/Noten
+ * branch            main       -> FETCH_HEAD
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+[2025-06-04 22:41:04] HTML-Datei 'Notenuebersicht.html' wurde neu erstellt.
+HTML-Datei erfolgreich erstellt: /volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/Notenuebersicht.html
+[2025-06-04 22:41:01] 🔄 HTML-Synchronisierung abgeschlossen. Beginne Kopie.
+[2025-06-04 22:41:01] ✅ HTML erstellt, archiviert & index.html aktualisiert.

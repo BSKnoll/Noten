@@ -102,7 +102,8 @@ def generate_html_from_excel(file_path, output_path):
                         "MaxPunkte": row.get(f"Test{i}maxPunkte", "")
                     })
 
-            comment = row.get("Kommentar", "")
+            comment = str(row.get("Kommentar", ""))
+
 
             student_data[code].append({
                 "Fach": subject,
