@@ -1,5 +1,5 @@
 # Pfad zur Excel-Datei
-$excelPath = Join-Path $PSScriptRoot "NotenAlleSchuelerGesamt.xlsx"
+$excelPath = Join-Path $PSScriptRoot "NotenAllSuS.xlsx"
 
 # Excel starten
 $excel = New-Object -ComObject Excel.Application

@@ -1,11 +1,11 @@
 NEU:
 cd "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto"
 
-chmod +x noten_git_automatisch_inklforce.sh
+chmod +x noten_pythonstart_git_auto_rotation.sh
 
-./noten_git_automatisch_inklforce.sh
+./noten_pythonstart_git_auto_rotation.sh
  
-tail -n 300 "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/log.txt"
+tail -n 300 "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/logdat.txt"
 
 Erklärung:
 # 1. In den Auto-Ordner wechseln
