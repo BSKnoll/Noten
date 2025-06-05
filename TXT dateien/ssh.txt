@@ -1,3 +1,4 @@
+192.168.0.11:26780/	91
 NEU:
 cd "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto"
 
@@ -6,6 +7,17 @@ chmod +x noten_pythonstart_git_auto_rotation.sh
 ./noten_pythonstart_git_auto_rotation.sh
  
 tail -n 300 "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/logdat.txt"
+
+Wenn mit der sync was icht hinhaut dann:
+cd "/volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt"
+git add auto/logdat.txt
+git rm triggerfiles/FORCE.txt
+git commit -m "Autoänderungen vom Skript"
+
+git pull --rebase
+
+/bin/python3 auto/HTMLgenerierenV3.py
+
 
 Erklärung:
 # 1. In den Auto-Ordner wechseln
