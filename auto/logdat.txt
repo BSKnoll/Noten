@@ -554,3 +554,128 @@ error: please commit or stash them.
 HTML-Datei erfolgreich erstellt: /volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/Notenuebersicht.html
 [2025-06-10 10:26:01] 🔄 HTML-Synchronisierung abgeschlossen. Beginne Kopie.
 [2025-06-10 10:26:01] ✅ HTML erstellt, archiviert & index.html aktualisiert.
+[main df3b257] Automatisches Update vom 2025-06-10_10-26
+ 14 files changed, 11522 insertions(+), 840 deletions(-)
+ create mode 100644 auto/archiv/Notenuebersicht_2025-06-10_10-26.html
+ create mode 100644 auto/log_archiv/log_2025-06-05.txt
+ create mode 100644 auto/log_archiv/log_2025-06-06.txt
+ create mode 100644 auto/log_archiv/log_2025-06-07.txt
+ create mode 100644 auto/log_archiv/log_2025-06-08.txt
+ create mode 100644 auto/log_archiv/log_2025-06-09.txt
+ delete mode 100644 auto/logdat - Kopie.txt
+To github.com:BSKnoll/Noten.git
+   827ac41..df3b257  main -> main
+[2025-06-10 10:26:01] ✅ GitHub Push erfolgreich.
+[2025-06-10 10:27:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:27:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:28:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:28:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:29:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:29:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:30:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:30:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:31:06] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:31:06] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:32:03] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:32:03] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:33:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:33:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:34:10] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:34:10] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:35:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:35:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:36:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:36:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:37:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:37:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:38:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:38:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:39:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:39:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:40:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:40:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:41:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:41:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:42:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:42:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:43:03] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:43:03] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:44:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:44:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:45:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:45:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:46:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:46:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:47:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:47:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:48:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:48:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:49:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:49:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:50:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:50:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:51:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:51:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:52:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:52:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:53:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:53:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:54:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:54:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:55:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:55:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:56:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:56:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:57:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:57:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:58:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:58:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 10:59:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 10:59:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:00:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:00:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:01:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:01:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:02:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:02:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:03:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:03:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:04:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:04:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:05:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:05:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:06:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:06:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:07:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:07:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:08:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:08:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:09:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:09:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:10:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:10:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:11:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:11:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:12:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:12:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:13:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:13:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:14:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:14:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:15:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:15:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:16:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:16:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:17:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:17:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-10 11:18:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-10 11:18:02] 🚀 FORCE erkannt (Zeile oder Datei) – Triggerprüfung übersprungen.
+[2025-06-10 11:18:02] ✅ Trigger erkannt – Skript wird ausgeführt.
+From github.com:BSKnoll/Noten
+ * branch            main       -> FETCH_HEAD
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+[2025-06-10 11:18:12] HTML-Datei 'Notenuebersicht.html' wurde neu erstellt.
+HTML-Datei erfolgreich erstellt: /volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/Notenuebersicht.html
+[2025-06-10 11:18:02] 🔄 HTML-Synchronisierung abgeschlossen. Beginne Kopie.
+[2025-06-10 11:18:02] ✅ HTML erstellt, archiviert & index.html aktualisiert.
