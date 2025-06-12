@@ -1543,3 +1543,19 @@ error: please commit or stash them.
 HTML-Datei erfolgreich erstellt: /volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/Notenuebersicht.html
 [2025-06-12 18:33:02] 🔄 HTML-Synchronisierung abgeschlossen. Beginne Kopie.
 [2025-06-12 18:33:02] ✅ HTML erstellt, archiviert & index.html aktualisiert.
+[main acd21a0] Automatisches Update vom 2025-06-12_18-33
+ 2 files changed, 147 insertions(+)
+ create mode 100644 auto/archiv/Notenuebersicht_2025-06-12_18-33.html
+To github.com:BSKnoll/Noten.git
+   9226be7..acd21a0  main -> main
+[2025-06-12 18:33:02] ✅ GitHub Push erfolgreich.
+[2025-06-12 18:34:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-12 18:34:01] ✅ Trigger erkannt – Skript wird ausgeführt.
+From github.com:BSKnoll/Noten
+ * branch            main       -> FETCH_HEAD
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+[2025-06-12 18:34:04] HTML-Datei 'Notenuebersicht.html' wurde neu erstellt.
+HTML-Datei erfolgreich erstellt: /volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/Notenuebersicht.html
+[2025-06-12 18:34:01] 🔄 HTML-Synchronisierung abgeschlossen. Beginne Kopie.
+[2025-06-12 18:34:01] ✅ HTML erstellt, archiviert & index.html aktualisiert.
