@@ -1468,3 +1468,58 @@ error: please commit or stash them.
 HTML-Datei erfolgreich erstellt: /volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/Notenuebersicht.html
 [2025-06-16 17:53:01] 🔄 HTML-Synchronisierung abgeschlossen. Beginne Kopie.
 [2025-06-16 17:53:01] ✅ HTML erstellt, archiviert & index.html aktualisiert.
+[main b57652c] Automatisches Update vom 2025-06-16_17-53
+ 5 files changed, 193 insertions(+), 4 deletions(-)
+ create mode 100644 auto/archiv/Notenuebersicht_2025-06-16_17-53.html
+To github.com:BSKnoll/Noten.git
+   72256d1..b57652c  main -> main
+[2025-06-16 17:53:01] ✅ GitHub Push erfolgreich.
+[2025-06-16 17:54:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:54:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:55:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:55:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:56:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:56:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:57:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:57:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:58:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:58:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:59:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:59:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:00:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:00:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:01:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:01:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:02:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:02:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:03:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:03:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:04:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:04:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:05:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:05:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:06:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:06:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:07:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:07:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:08:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:08:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:09:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:09:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:10:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:10:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:11:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:11:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:12:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:12:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 18:13:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 18:13:02] 🚀 FORCE erkannt (Zeile oder Datei) – Triggerprüfung übersprungen.
+[2025-06-16 18:13:02] ✅ Trigger erkannt – Skript wird ausgeführt.
+From github.com:BSKnoll/Noten
+ * branch            main       -> FETCH_HEAD
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+[2025-06-16 18:13:05] HTML-Datei 'Notenuebersicht.html' wurde neu erstellt.
+HTML-Datei erfolgreich erstellt: /volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/Notenuebersicht.html
+[2025-06-16 18:13:02] 🔄 HTML-Synchronisierung abgeschlossen. Beginne Kopie.
+[2025-06-16 18:13:02] ✅ HTML erstellt, archiviert & index.html aktualisiert.
