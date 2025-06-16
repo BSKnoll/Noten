@@ -1408,3 +1408,63 @@ error: please commit or stash them.
 HTML-Datei erfolgreich erstellt: /volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/Notenuebersicht.html
 [2025-06-16 17:33:01] 🔄 HTML-Synchronisierung abgeschlossen. Beginne Kopie.
 [2025-06-16 17:33:01] ✅ HTML erstellt, archiviert & index.html aktualisiert.
+[main 72256d1] Automatisches Update vom 2025-06-16_17-33
+ 10 files changed, 10226 insertions(+), 1560 deletions(-)
+ create mode 100644 auto/archiv/Notenuebersicht_2025-06-16_17-33.html
+ create mode 100644 auto/log_archiv/log_2025-06-12.txt
+ create mode 100644 auto/log_archiv/log_2025-06-13.txt
+ create mode 100644 auto/log_archiv/log_2025-06-14.txt
+ create mode 100644 auto/log_archiv/log_2025-06-15.txt
+ create mode 100644 triggerfiles/FORCE.txt
+To github.com:BSKnoll/Noten.git
+   1da3ba7..72256d1  main -> main
+[2025-06-16 17:33:01] ✅ GitHub Push erfolgreich.
+[2025-06-16 17:34:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:34:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:35:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:35:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:36:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:36:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:37:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:37:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:38:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:38:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:39:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:39:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:40:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:40:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:41:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:41:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:42:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:42:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:43:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:43:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:44:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:44:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:45:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:45:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:46:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:46:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:47:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:47:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:48:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:48:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:49:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:49:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:50:02] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:50:02] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:51:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:51:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:52:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:52:01] ⏭️ Kein passender Trigger – Skript übersprungen.
+[2025-06-16 17:53:01] ✳️ Aufruf durch Aufgabenplaner oder manuell
+[2025-06-16 17:53:01] 🚀 FORCE erkannt (Zeile oder Datei) – Triggerprüfung übersprungen.
+[2025-06-16 17:53:01] ✅ Trigger erkannt – Skript wird ausgeführt.
+From github.com:BSKnoll/Noten
+ * branch            main       -> FETCH_HEAD
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+[2025-06-16 17:53:04] HTML-Datei 'Notenuebersicht.html' wurde neu erstellt.
+HTML-Datei erfolgreich erstellt: /volume1/homes/Markus/Drive/Studium Skripten Unterlagen/BS/Sonstiges/NotenListeGesamt/auto/Notenuebersicht.html
+[2025-06-16 17:53:01] 🔄 HTML-Synchronisierung abgeschlossen. Beginne Kopie.
+[2025-06-16 17:53:01] ✅ HTML erstellt, archiviert & index.html aktualisiert.
