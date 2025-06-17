@@ -67,8 +67,8 @@ fi
 if ! $should_run && [ -f "$TRIGGER_FILE" ]; then
     while IFS= read -r line || [ -n "$line" ]; do
         [[ "$line" =~ ^#.*$ || -z "$line" ]] && continue
-        day=$(echo "$line" | cut -d';' -f1 | xargs)
-        time=$(echo "$line" | cut -d';' -f2 | xargs)
+        day=$(echo "$line" | cut -d';' -f1)
+        time=$(echo "$line" | cut -d';' -f2)
 
         if [[ "$day" == "$NOW_DAY" ]]; then
             for t in "${valid_times[@]}"; do

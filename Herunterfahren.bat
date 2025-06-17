@@ -1,0 +1,3 @@
+@echo off
+echo Der Rechner wird in 20 Sekunden heruntergefahren...
+shutdown /s /t 20
